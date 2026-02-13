@@ -16,7 +16,7 @@ Member 2: Michelle - [RSET]
 
 Hosted Project Link
 
-https://your-project-name.vercel.app
+https://exchangeease.vercel.app/
 
 Project Description
 
