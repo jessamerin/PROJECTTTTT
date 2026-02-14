@@ -1,6 +1,6 @@
 ExchangeEase 🎯
 Basic Details
-Team Name: ByteBloom 🌸
+Team Name: Zero&One
 Team Members
 •	Jessa – Rajagiri School Of Engineering and Technology
 •	Michelle – Rajagiri Shool Of Engineering and Technology
